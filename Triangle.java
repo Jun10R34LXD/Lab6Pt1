@@ -1,6 +1,6 @@
 
 /**
- * Recieves information on a triangle from the user and returns the information and the area of the triangle.
+ * Represents a triangle with a name, a base, and a height. Proviedes the area of the triangle.
  *
  * @author Luis Castillo
  * @version V1.0
